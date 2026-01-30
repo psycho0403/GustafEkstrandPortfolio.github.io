@@ -32,10 +32,18 @@ Most notable functions I was heavily involved in was the respawning system and t
   <img src="https://github.com/psycho0403/psycho0403/blob/main/DaggerboundBanner.png">
 </div>
 
+### [Queens Rush](https://github.com/psycho0403/QueensRush)
+- **Description**: Queens Rush is a school group project where we where tasked to design and create a game with an action theme. The resulting game was a "Boss Rush" game where the player needs to defeat a sequence of bosses to win the game. In this project I was responsible for programming the player character, movement, camera control, animation blending, Player HUD and features like picking up and throwing projectiles as well as how those projectiles acted.
+- **Technologies Used**: Unreal 5 Game Engine, Blue print visual scripting
+<div align="center">
+  <img src="https://github.com/psycho0403/psycho0403/blob/main/Queens%20Rush%20Poster.png" width="50%">
+</div>
+
 ### [Network Project](https://github.com/psycho0403/NetworkProject)
 - **Description**: A small school project where I successfully managed to create a working game prototype with server connection capabilities.
 Developed alone to test my skills this small project help me learn the ins and outs of creating a functioning network
 - **Technologies Used**: Unity Game Engine, Visual Studio, C#
+
 <div align="center">
  <img src="https://github.com/psycho0403/psycho0403/blob/main/NetworkProject_showcasePicture" width="400" height="400">
 </div>
