@@ -73,6 +73,15 @@ Developed alone to test my skills this small project help me learn the ins and o
 
 ---
 
+## View my CV
+<p align="left">
+  <a href="https://github.com/psycho0403/GustafEkstrandPortfolio.github.io/blob/main/CV%20-%202026.pdf">
+    <strong>⬇ Download CV (PDF)</strong>
+  </a>
+</p>
+
+---
+
 ## 📬 Contact
 📧 Email: [gustafekstrand04@gmail.com] 
 
