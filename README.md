@@ -1,5 +1,5 @@
 # GustafEkstrandPortfolio.github.io
-<h1> # 🎮 Programming Portfolio :</h2>
+<h1> # Programming Portfolio :</h2>
 
 ## 👋 About Me, Gustaf Ekstrand
 Hi, My name is Gustaf and I'm a student studying Game Development at FutureGames malmö vocational university. I am passionate when it comes to games and programming.
@@ -11,7 +11,7 @@ as well as being experienced with scripting and optimizing gameplay systems and 
 
 ## 🛠 Skills & Tools
 - **Programming Languages**: C++, C#
-- **Game Engines**: Unity
+- **Game Engines**: Unity, Unreal Engine 5
 - **Other Tools**: Git, Visual Studio, Preforce
 
 ---
@@ -78,4 +78,4 @@ Developed alone to test my skills this small project help me learn the ins and o
 
 ---
 
-⭐ **Check out my projects and feel free to connect!**
+**Check out my projects and feel free to connect!**
